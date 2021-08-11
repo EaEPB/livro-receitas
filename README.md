@@ -1,2 +1,2 @@
-# Minha Receitas
-Meu Livro de receitas
+# Minhas Receitas
+ - Lasanha de Frango
